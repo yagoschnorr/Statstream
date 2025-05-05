@@ -1,0 +1,39 @@
+.streamlit/secrets.toml
+
+# ❌ Evita dependências locais
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ❌ Evita arquivos de ambientes virtuais
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ❌ Evita configurações do VS Code
+.vscode/
+
+# ❌ Evita arquivos do DevContainer
+.devcontainer/*.log
+.devcontainer/*.bak
+
+# ❌ Evita logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ❌ Evita arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# ❌ Evita arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
+
+# ❌ Evita arquivos de controle do sistema operacional
+.DS_Store
+Thumbs.db

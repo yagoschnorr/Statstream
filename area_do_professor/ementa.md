@@ -1,0 +1,12 @@
+### Ementa da disciplina:
+- População, amostra e variáveis
+- Métodos de Amostragem
+- Dados qualitativos e quantitativos
+- Medidas de tendência central
+- Medidas de dispersão
+- Medidas de assimetria
+- Visualização de dados
+- Probabilidade
+- Probabilidade condicional
+- Probabilidade total
+- Teorema de Bayes
